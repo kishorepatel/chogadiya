@@ -1,0 +1,95 @@
+<resources>
+
+    <!--there are other options for language setting, but just using this because its a simple app-->
+
+    <string name="app_name">Chogadiya</string>
+
+    <string name = "english">English</string>
+
+    <string name = "shubh">Shubh</string>
+    <string name = "labh">Labh</string>
+    <string name = "rog">Rog</string>
+    <string name = "amrut">Amrut</string>
+    <string name = "chal">Chal</string>
+    <string name = "udveg">Udveg</string>
+    <string name = "kal">Kal</string>
+
+    <string name = "day_time">Day</string>
+    <string name = "night_time">Night</string>
+
+    <string name = "sunday">Sunday</string>
+    <string name = "monday">Monday</string>
+    <string name = "tuesday">Tuesday</string>
+    <string name = "wednesday">Wednesday</string>
+    <string name = "thursday">Thursday</string>
+    <string name = "friday">Friday</string>
+    <string name = "saturday">Saturday</string>
+
+    <string name = "readme">"     As per Vedic Astrology, it is advisable to perform necessary prayers, on a particular time phase of the day to get maximum benefits of health, wealth and prosperity. There are totally seven types of Choghdiya. Amrut, Shubh and Labh are considered the most auspicious Choghadiyas. Chal is considered as good Choghadiya . Udveg, Kal and Rog is considered inauspicious."</string>
+
+
+    <string name = "readme_hindi">"     जब कोई मुहूर्त नहीं निकल रहा हो और किसी कार्य को शीघ्रता से आरंभ करना हो अथवा यात्रा पर जाना हो तो उसके लिए चौघड़िया मुहूर्त देखकर कार्य करना या यात्रा करना उत्तम होता है।
+
+दिन और रात के आठ-आठ हिस्से का एक चौघड़िया होता है। यानी 12 घंटे का दिन और 12 घंटे की रात में प्रत्येक 1.30 मिनट का एक चौघड़िया होता है। चौघड़िया सूर्योदय से प्रारंभ होता है। सात चौघड़ियों के बाद पहला चौघड़िया ही आठवां चौघड़िया होता है। सात वारों के चौघड़िए अलग-अलग होते हैं।
+
+सामान्य रूप से श्रेष्ठ चौघड़िए शुभ, चंचल, अमृत और लाभ के माने जाते हैं। उद्वेग, रोग और काल को नेष्ट माना जाता है। दिन और रात के आठ-आठ हिस्से का एक चौघड़िया होता है। यानी 12 घंटे का दिन और 12 घंटे की रात में प्रत्येक 1.30 मिनट का एक चौघड़िया होता है।"</string>
+
+    <string name="app_name_hindi">चोगडिया</string>
+
+    <string name = "hindi" translatable="false">हिन्दी</string>
+
+    <string name = "shubh_hindi" translatable="false">शुभ</string>
+    <string name = "labh_hindi" translatable="false">लाभ</string>
+    <string name = "rog_hindi" translatable="false">रोग</string>
+    <string name = "amrut_hindi" translatable="false">अमृत</string>
+    <string name = "chal_hindi" translatable="false">चल</string>
+    <string name = "udveg_hindi" translatable="false">उद्वेग</string>
+    <string name = "kal_hindi" translatable="false">काल</string>
+
+    <string name = "day_time_hindi" translatable="false">दिन</string>
+    <string name = "night_time_hindi" translatable="false">रात</string>
+
+    <string name = "sunday_hindi" translatable="false">रविवार</string>
+    <string name = "monday_hindi" translatable="false">सोमवार</string>
+    <string name = "tuesday_hindi" translatable="false">मंगलवार</string>
+    <string name = "wednesday_hindi" translatable="false">बुधवार</string>
+    <string name = "thursday_hindi" translatable="false">गुरुवार</string>
+    <string name = "friday_hindi" translatable="false">शुक्रवार</string>
+    <string name = "saturday_hindi" translatable="false">शनिवार</string>
+
+    <string name = "se_hindi" translatable="false">से</string>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <string name = "pref_language_title">Language</string>
+    <string name = "pref_language_key">pref_language</string>
+    <string name = "pref_language_default">English</string>
+    <string name= "pref_language_dialog_title">Select Language</string>
+
+    <string-array name="pref_language_entries">
+        <item>English</item>
+        <item>@string/hindi</item>
+    </string-array>
+
+    <string-array name="pref_language_entries_values">
+        <item>english</item>
+        <item>hindi</item>
+    </string-array>
+
+
+    <string name = "appbar_scrolling_view_behaviour">recyclerView</string>
+
+    <string name = "action_settings">Settings</string>
+    <string name = "action_about">About</string>
+    <string name = "action_share">Share</string>
+
+
+
+    <!--ADS-->
+    <string name = "banner_ad">Banner Ad</string>
+    <string name = "banner_ad_unit_id_main">ca-app-pub-7902346198659943/7694314713</string>
+    <string name = "banner_ad_unit_id_day">ca-app-pub-7902346198659943/9171047913</string>
+
+    <string name ="app_url_on_google_play_store">https://play.google.com/store/apps/details?id=com.exampleupsolving.android.chogadiya&amp;hl=en</string>
+
+</resources>

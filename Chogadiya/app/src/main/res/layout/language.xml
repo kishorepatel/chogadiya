@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#14edfd">
+
+    <Button
+        android:id="@+id/btn_english"
+        android:text="@string/english"
+        android:onClick="btnEnglishHandler"
+        android:layout_height="48dp"
+        android:layout_width="256dp"
+        android:elevation="4dp"
+        android:background="?colorPrimary"
+        android:textColor="#FFF"
+        android:layout_margin="4dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        />
+
+    <Button
+        android:id="@+id/btn_hindi"
+        android:text="@string/hindi"
+        android:onClick="btnHindiHandler"
+        android:layout_height="48dp"
+        android:layout_width="256dp"
+        android:elevation="4dp"
+        android:background="?colorPrimary"
+        android:layout_margin="4dp"
+        android:textColor="#FFF"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        />
+
+</LinearLayout>
